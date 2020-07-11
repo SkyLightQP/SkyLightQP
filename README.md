@@ -1,4 +1,4 @@
-### 🍀 하늘빛 (SkyLightQP)
+### 🍀 하늘빛 (SkyLightQP [![HitCount](http://hits.dwyl.com/SkyLightQP/SkyLightQP/SkyLightQP.svg)](http://hits.dwyl.com/SkyLightQP/SkyLightQP/SkyLightQP)
 
 - 프로그래밍, 메이킹, 드론 사진 촬영을 즐겨합니다.
 
