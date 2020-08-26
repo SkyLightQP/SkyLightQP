@@ -1,10 +1,6 @@
 [![SkyLightQP](./docs/banner.png)](https://github.com/SkyLightQP)
 
-<a href="http://hits.dwyl.com/SkyLightQP/SkyLightQP/SkyLightQP" style="float: right;">
-    <img src="http://hits.dwyl.com/SkyLightQP/SkyLightQP/SkyLightQP.svg" alt="Hit" />
-</a>
-
-### 하늘빛 (SkyLightQP) [![blog](https://img.shields.io/badge/Blog-SkyLightQP-white&?style=flat-square&color=orange)](https://blog.skylightqp.kr)
+### 하늘빛 (SkyLightQP) [![blog](https://img.shields.io/badge/Blog-SkyLightQP-white&?style=flat-square&color=orange)](https://blog.skylightqp.kr) [![HitCount](http://hits.dwyl.com/SkyLightQP/SkyLightQP/SkyLightQP.svg)](http://hits.dwyl.com/SkyLightQP/SkyLightQP/SkyLightQP)
 
 - 세상을 더 편리하게 만드는 **프로그래밍**을 하고 있어요
 
