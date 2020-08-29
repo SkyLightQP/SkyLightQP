@@ -14,4 +14,4 @@
 
 [![SkyLightQP's github stats](https://github-readme-stats.vercel.app/api?username=SkyLightQP&count_private=true&show_icons=true&theme=radical)](https://github.com/SkyLightQP)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=combbm)](https://solved.ac/combbm)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=combbm)](https://solved.ac/combbm)
