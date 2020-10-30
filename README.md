@@ -18,13 +18,13 @@
 
 <table>
   <tr>
-    <a href="https://solved.ac/combbm" target="_blank">
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=combbm" alt="solved.ac tier" />
+    <a href="https://github.com/SkyLightQP" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api?username=SkyLightQP&count_private=true&show_icons=true&theme=radical" alt="SkyLightQP's github stats" />
     </a>
   </tr>
   <tr>
-    <a href="https://github.com/SkyLightQP" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api?username=SkyLightQP&count_private=true&show_icons=true&theme=radical" alt="SkyLightQP's github stats" />
+    <a href="https://solved.ac/combbm" target="_blank">
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=combbm" alt="solved.ac tier" />
     </a>
   </tr>
 </table>
