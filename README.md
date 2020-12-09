@@ -1,4 +1,4 @@
-[![SkyLightQP](https://raw.githubusercontent.com/SkyLightQP/SkyLightQP/master/docs/banner.png)](https://github.com/SkyLightQP)
+[![SkyLightQP](https://raw.githubusercontent.com/SkyLightQP/SkyLightQP/master/docs/banner2.png)](https://github.com/SkyLightQP)
 
 ## 하늘빛 (SkyLightQP)
 [![blog](https://img.shields.io/badge/blog-SkyLightQP-white&?style=flat-square&color=orange)](https://blog.skylightqp.kr) [![HitCount](http://hits.dwyl.com/SkyLightQP/SkyLightQP/SkyLightQP.svg)](http://hits.dwyl.com/SkyLightQP/SkyLightQP/SkyLightQP)
