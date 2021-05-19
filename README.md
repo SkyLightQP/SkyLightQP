@@ -13,9 +13,9 @@
 
 ### 🖥 Project
 
-- #### [KKutuDotcom](https://github.com/SkyLightQP/KKuTuDotCom)
-- #### [Suft](https://github.com/swsuft/suft-frontend)
-- #### [Sinamon](https://github.com/swjb-sinamon/sinamon-frontend)
+- #### [Sinamon](https://github.com/swjb-sinamon/)
+- #### [ConnectClass](https://github.com/real-compacted-developer/connect-class/)
+- #### [ZUDA](https://github.com/zzuda/)
 
 ### 👩‍👧‍👦 Team
 
