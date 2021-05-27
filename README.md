@@ -1,29 +1,31 @@
-## 하늘빛 (SkyLightQP)
-[![blog](https://img.shields.io/badge/blog-SkyLightQP-white&?style=flat-square&color=orange)](https://blog.skylightqp.kr) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSkyLightQP%2FSkyLightQP&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+## 하대겸 (하늘빛, SkyLightQP)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSkyLightQP%2FSkyLightQP&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
-### 👋 저는요...
+## 👋 저는요...
 
-- 세상을 편리하게 만드는 **프로그래밍**을 하면서
-  - 주로 Kotlin, TypeScript, React를 사용해요.
-  - 체계적이고 쉽게 이해할 수 있는 코드를 만들기위해 노력하고 있어요.
-  - 코드 문서화를 중요하게 여겨요.
-- 서비스를 책임지는 **인프라** 작업을 하고
-- 넓은 하늘을 볼 수 있도록 **드론 촬영**을 하며
-- 더욱 편리한 서비스를 제공하기 위해 **UX/UI** 디자인을 하고 있어요
+- 주로 **웹 프론트엔드, 백엔드** 프로그래밍을 해요
+  - 백엔드를 더 선호해요
+  - Java, Kotlin, TypeScript 을 이용해서 개발해요
+  - React, Express, Nestjs 를 사용하기도 해요
+- 서비스를 책임지는 **인프라** 작업도 해요
+  - Linux, AWS, NCP 를 사용할 수 있어요
+- 가끔은 첫인상을 결정하는 **UI/UX 디자인**도 해요
 
-### 🖥 Project
+## 📚 Project
 
-- #### [Sinamon](https://github.com/swjb-sinamon/)
-- #### [ConnectClass](https://github.com/real-compacted-developer/connect-class/)
-- #### [ZUDA](https://github.com/zzuda/)
+- 학과 인트라넷 서비스 **[수정과](https://github.com/swjb-sinamon/)**
+- 온라인 스터디 서비스 **[커넥트클래스](https://github.com/real-compacted-developer/connect-class/)**
+- 온, 오프라인을 위한 학습 보조 플랫폼 **[ZUDA](https://github.com/zzuda/)**
 
-### 👩‍👧‍👦 Team
+## 👩‍👧‍👦 Team
 
-- #### [Team IF](https://github.com/Team-IF)
+- 청소년 프로그래밍 팀 **[Team IF](https://github.com/Team-IF)**
 
-### ✏ TIL
+## Etc.
 
-- #### [til.skylightqp.kr](https://til.skylightqp.kr)
+- **[Resume](https://daegyoe.me)**
+- **[Blog](https://blog.daegyeo.me/)**
+- **[Today I Learn](https://til.skylightqp.kr)**
 
 <br />
 <br />
