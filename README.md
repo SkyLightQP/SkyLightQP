@@ -23,7 +23,7 @@
 
 ## Etc.
 
-- **[Resume](https://daegyoe.me)**
+- **[Resume](https://daegyeo.me)**
 - **[Blog](https://blog.daegyeo.me/)**
 - **[Today I Learn](https://til.skylightqp.kr)**
 
