@@ -1,24 +1,20 @@
-## 하대겸 (하늘빛, SkyLightQP)
+## 안녕하세요 👋
 
-## 👋 저는요...
+**웹 프론트엔드, 백엔드** 프로그래밍을 다뤄요
+- 백엔드를 선호해요
+- **Java, Kotlin, TypeScript**를 즐겨 사용해요
+- **React, Express, NestJS**를 사용해요
 
-- 주로 **웹 프론트엔드, 백엔드** 프로그래밍을 해요
-  - 백엔드를 더 선호해요
-  - Java, Kotlin, TypeScript 을 이용해서 개발해요
-  - React, Express, Nestjs 를 사용하기도 해요
-- 가끔은 첫인상을 결정하는 **UI/UX 디자인**도 해요
+가끔은 첫 인상을 결정하는 **UI/UX** 디자인도 해요
 
-## 📚 Project
+## 이런 활동을 해왔어요 💻
 
-- 학과 인트라넷 서비스 **[수정과](https://github.com/swjb-sinamon/)**
-- 온라인 스터디 서비스 **[커넥트클래스](https://github.com/real-compacted-developer/connect-class/)**
-- 온, 오프라인을 위한 학습 보조 플랫폼 **[ZUDA](https://github.com/zzuda/)**
-
-## 👩‍👧‍👦 Team
-
+- SW마에스트로 11기, 온라인 스터디 플랫폼 **[커넥트클래스](https://github.com/real-compacted-developer/connect-class/)**
+- 학과 인트라넷 **[수정과](https://github.com/swjb-sinamon/)**
+- 출석체크, 파일공유 등 학습 보조 플랫폼 **[ZUDA](https://github.com/zzuda/)**
 - 청소년 프로그래밍 팀 **[Team IF](https://github.com/Team-IF)**
 
-## Etc.
+## 톺아보기 ✨
 
 - **[Resume](https://daegyeo.me)**
 - **[Blog](https://blog.daegyeo.me/)**
