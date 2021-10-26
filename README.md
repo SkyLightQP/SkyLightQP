@@ -23,9 +23,6 @@
 <br />
 <br />
 
-<a href="https://github.com/SkyLightQP" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkyLightQP&count_private=true&show_icons=true" alt="SkyLightQP's github stats" />
-</a>
-<a href="https://solved.ac/combbm" target="_blank">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=combbm" alt="solved.ac tier" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkyLightQP&count_private=true&show_icons=true)](https://github.com/SkyLightQP)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=combbm)](https://solved.ac/combbm)
