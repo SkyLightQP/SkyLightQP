@@ -28,6 +28,5 @@
 <br />
 <br />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkyLightQP&count_private=true&show_icons=true)](https://github.com/SkyLightQP)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyLightQP&layout=compact)](https://github.com/SkyLightQP)
 [![Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=combbm)](https://solved.ac/combbm)
