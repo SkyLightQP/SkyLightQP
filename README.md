@@ -26,7 +26,6 @@
 - **[Baekjoon](https://www.acmicpc.net/user/combbm)**
 
 <br />
-<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyLightQP&layout=compact)](https://github.com/SkyLightQP)
 [![Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=combbm)](https://solved.ac/combbm)
