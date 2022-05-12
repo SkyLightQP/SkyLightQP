@@ -14,7 +14,7 @@
 ## 활동 🙋‍♀️🙋‍♂️
 
 - 가천대학교, AI소프트웨어학부 (2022~)
-- 학교 인트라넷 수정과, 팀장 (2020~2021)
+- 수원정보과학고등학교 인트라넷 수정과, 팀장 및 개발 (2020~2021)
 - SW마에스트로 11기 수료 (2020)
 - 청소년 프로그래밍 팀 TeamIF (2019~)
 
@@ -22,7 +22,7 @@
 
 - **[Resume](https://daegyeo.me)**
 - **[Blog](https://blog.daegyeo.me/)**
-- **[Today I Learn](https://til.skylightqp.kr)**
+- **[Today I Learned](https://til.skylightqp.kr)**
 - **[Baekjoon](https://www.acmicpc.net/user/combbm)**
 
 <br />
