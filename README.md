@@ -22,8 +22,8 @@
 
 - **[Resume](https://daegyeo.me)**
 - **[Blog](https://blog.daegyeo.me/)**
-- **[Today I Learned](https://til.skylightqp.kr)**
 - **[Baekjoon](https://www.acmicpc.net/user/combbm)**
+- **[Today I Learned](https://til.skylightqp.kr)**
 
 <br />
 
