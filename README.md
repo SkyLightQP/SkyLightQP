@@ -2,7 +2,7 @@
 
 - Kotlin, Java, TypeScript
 - React, Express, Nestjs
-- MySQL(MariaDB), PostgreSQL
+- MySQL, MariaDB, PostgreSQL
 
 ## 프로젝트 💻
 
