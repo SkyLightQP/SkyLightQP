@@ -1,25 +1,28 @@
-## 안녕하세요! 👋 
+## Hello! 👋 
 
-- Kotlin, Java, TypeScript
-- React, Express, Nestjs
-- Linux, Docker, MySQL, MariaDB, PostgreSQL
+### Languages
+- Java, Kotlin, TypeScript
+### Libraries and Frameworks
+- Reactjs, Nextjs, Expressjs, Nestjs
+### Infrastructures
+- Linux, Docker, MySQL, PostgreSQL, AWS
 
-## 프로젝트 💻
+## Projects 💻
 
-- SW마에스트로 11기, WebRTC, Socket을 활용한 스터디 플랫폼 **[커넥트클래스](https://github.com/real-compacted-developer/connect-class/)**
-- 고교학점제, 시간표 확인을 위한 학교 인트라넷 **[수정과](https://github.com/swjb-sinamon/)**
-- 출석체크, 파일공유를 위한 학습 보조 플랫폼 **[ZUDA](https://github.com/zzuda/)**
-- 커뮤니티형 문제풀이 사이트 **[수프트](https://github.com/swsuft/)**
+- Study room platform using WebRTC, WebSocket in SWM **[커넥트클래스](https://github.com/real-compacted-developer/connect-class/)**
+- HighSchool Intranet to register class or check timetable **[수정과](https://github.com/swjb-sinamon/)**
+- Education Service to provide attendance checks and share files **[ZUDA](https://github.com/zzuda/)**
+- Problem Solving Site for school exam **[수프트](https://github.com/swsuft/)**
 
-## 활동 🙋‍♀️🙋‍♂️
+## Activities 🙋‍♀️🙋‍♂️
 
-- 가천대학교, 소프트웨어전공 (2022~)
-- 끄투코리아, 개발자 (2021~)
-- 수원정보과학고등학교 인트라넷 수정과, 팀장 및 개발 (2020~2021)
-- SW마에스트로 11기 수료 (2020)
-- 청소년 프로그래밍 팀 TeamIF (2019~)
+- Gachon University, undergraduate Software (2022~)
+- KKuTuKorea, Developer (2021~)
+- HighSchool Intranet Sinamon, Team Leader and Developer (2020~2021)
+- Software Maestro 11th (2020)
+- Programming Team, TeamIF (2019~)
 
-## 둘러보기 🔗
+## See other links 🔗
 
 - **[Portfolio](https://daegyeo.me?utm_source=github&utm_medium=readme&utm_campaign=github_readme)**
 - **[Blog](https://blog.daegyeo.me/)**
