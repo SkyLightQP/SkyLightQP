@@ -24,7 +24,7 @@
 
 ## See other links 🔗
 
-- **[Portfolio](https://daegyeo.me?utm_source=github&utm_medium=readme&utm_campaign=github_readme)**
+- **[Resume](https://daegyeo.me?utm_source=github&utm_medium=readme&utm_campaign=github_readme)**
 - **[Blog](https://blog.daegyeo.me/)**
 - **[Baekjoon](https://www.acmicpc.net/user/combbm)**
 - **[Today I Learned](https://til.skylightqp.kr)**
