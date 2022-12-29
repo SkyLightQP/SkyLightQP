@@ -5,7 +5,7 @@
 ### Libraries and Frameworks
 - Reactjs, Nextjs, Expressjs, Nestjs
 ### Infrastructures
-- Linux, Docker, MySQL, PostgreSQL, AWS
+- Linux, Docker, MySQL, PostgreSQL, Redis, AWS
 
 ## Projects 💻
 
