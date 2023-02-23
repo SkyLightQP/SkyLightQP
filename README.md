@@ -14,7 +14,7 @@
 - Education Service to provide attendance checks and share files **[ZUDA](https://github.com/zzuda/)**
 - Problem Solving Site for school exam **[수프트](https://github.com/swsuft/)**
 
-## Activities 🙋‍♀️🙋‍♂️
+## Activities & Educations 🙋‍♀️🙋‍♂️
 
 - Gachon University, undergraduate Software (2022~)
 - KKuTuKorea, Developer (2021~)
