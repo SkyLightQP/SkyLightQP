@@ -12,7 +12,7 @@
 - Study room platform using WebRTC, WebSocket in SWM **[커넥트클래스](https://github.com/real-compacted-developer/connect-class/)**
 - HighSchool Intranet to register class or check timetable **[수정과](https://github.com/swjb-sinamon/)**
 - Education Service to provide attendance checks and share files **[ZUDA](https://github.com/zzuda/)**
-- Problem Solving Site for school exam **[수프트](https://github.com/swsuft/)**
+- Question bank site for exam of school **[수프트](https://github.com/swsuft/)**
 
 ## Activities & Educations 🙋‍♀️🙋‍♂️
 
