@@ -18,7 +18,7 @@
 
 - Gachon University, undergraduate Software (2022~)
 - KKuTuKorea, Developer (2021~)
-- HighSchool Intranet Sinamon, Team Leader and Developer (2020~2021)
+- HighSchool Intranet: 수정과, Team Leader and Developer (2020~2021)
 - Software Maestro 11th (2020)
 - Programming Team, TeamIF (2019~)
 
@@ -31,5 +31,6 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyLightQP&layout=compact)](https://github.com/SkyLightQP)
-[![Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=combbm)](https://solved.ac/combbm)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkyLightQP&hide=issues,contribs)](https://github.com/SkyLightQP)
+[![combbm's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=combbm)](https://solved.ac/combbm)
+
