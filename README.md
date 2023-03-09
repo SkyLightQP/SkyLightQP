@@ -31,6 +31,9 @@
 
 <br />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkyLightQP&hide=contribs)](https://github.com/SkyLightQP)
-[![combbm's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=combbm)](https://solved.ac/combbm)
+<div align="center">
+  <a href="https://solved.ac/combbm" target="_blank">
+    <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=combbm" alt="combbm's solved.ac stats" />
+  </a>
+</div>
 
