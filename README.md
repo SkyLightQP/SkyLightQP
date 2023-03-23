@@ -17,7 +17,6 @@
 ## Activities & Educations 🙋‍♀️🙋‍♂️
 
 - Gachon University, undergraduate Software (2022~)
-- KKuTuKorea, Developer (2021~)
 - HighSchool Intranet: 수정과, Team Leader and Developer (2020~2021)
 - Software Maestro 11th (2020)
 - Programming Team, TeamIF (2019~)
