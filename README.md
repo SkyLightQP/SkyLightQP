@@ -1,9 +1,9 @@
 ## Hello! 👋 
 
 ### Languages
-- Java, Kotlin, TypeScript
+- TypeScript, Java, Kotlin
 ### Libraries and Frameworks
-- Reactjs, Nextjs, Expressjs, Nestjs
+- Expressjs, Nestjs, React, Nextjs
 ### Infrastructures
 - Linux, Docker, MySQL, PostgreSQL, Redis, AWS
 
@@ -11,8 +11,8 @@
 
 - Study room platform using WebRTC, WebSocket in SWM **[커넥트클래스](https://github.com/real-compacted-developer/connect-class/)**
 - HighSchool Intranet to register class or check timetable **[수정과](https://github.com/swjb-sinamon/)**
-- Education Service to provide attendance checks and share files **[ZUDA](https://github.com/zzuda/)**
-- Question bank site for exam of school **[수프트](https://github.com/swsuft/)**
+- Education platform to provide attendance checks and share files **[ZUDA](https://github.com/zzuda/)**
+- Question bank service for exam of school **[수프트](https://github.com/swsuft/)**
 
 ## Activities & Educations 🙋‍♀️🙋‍♂️
 
@@ -23,7 +23,7 @@
 
 ## See other links 🔗
 
-- **[Resume](https://daegyeo.me?utm_source=github&utm_medium=readme&utm_campaign=github_readme)**
+- **[Portfolio](https://daegyeo.me?utm_source=github&utm_medium=readme&utm_campaign=github_readme)**
 - **[Blog](https://blog.daegyeo.me/)**
 - **[Baekjoon](https://www.acmicpc.net/user/combbm)**
 - **[Today I Learned](https://til.skylightqp.kr)**
