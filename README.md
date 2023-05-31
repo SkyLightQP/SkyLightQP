@@ -1,4 +1,4 @@
-## Hello! 👋 
+## 👋 Welcome
 
 ### Languages
 - TypeScript, Java, Kotlin
@@ -7,21 +7,19 @@
 ### Infrastructures
 - Linux, Docker, MySQL, PostgreSQL, Redis, AWS
 
-## Projects 💻
+## 💻 Projects
 
-- Study room platform using WebRTC, WebSocket in SWM **[커넥트클래스](https://github.com/real-compacted-developer/connect-class/)**
+- Study room platform using WebRTC, WebSocket in SWM 11th **[커넥트클래스](https://github.com/real-compacted-developer/connect-class/)**
 - HighSchool Intranet to register class or check timetable **[수정과](https://github.com/swjb-sinamon/)**
 - Education platform to provide attendance checks and share files **[ZUDA](https://github.com/zzuda/)**
 - Question bank service for exam of school **[수프트](https://github.com/swsuft/)**
 
-## Activities & Educations 🙋‍♀️🙋‍♂️
+## 🙋‍♀️🙋‍♂️ Activities & Educations
 
 - Gachon University, undergraduate Software (2022~)
 - HighSchool Intranet: 수정과, Team Leader and Developer (2020~2021)
 - Software Maestro 11th (2020)
-- Programming Team, TeamIF (2019~)
-
-## See other links 🔗
+## 🔗 See other links
 
 - **[Portfolio](https://daegyeo.me?utm_source=github&utm_medium=readme&utm_campaign=github_readme)**
 - **[Blog](https://blog.daegyeo.me/)**
