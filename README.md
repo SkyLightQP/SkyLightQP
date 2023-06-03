@@ -14,9 +14,10 @@
 - Education platform to provide attendance checks and share files **[ZUDA](https://github.com/zzuda/)**
 - Question bank service for exam of school **[수프트](https://github.com/swsuft/)**
 
-## 🙋‍♀️🙋‍♂️ Activities & Educations
+## 🙋‍♀️🙋‍♂️ Experiences
 
 - Gachon University, undergraduate Software (2022~)
+- KKuTuKorea, Developer (2021~)
 - HighSchool Intranet: 수정과, Team Leader and Developer (2020~2021)
 - Software Maestro 11th (2020)
 ## 🔗 See other links
