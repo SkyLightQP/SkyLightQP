@@ -19,4 +19,4 @@
 
 <br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyLightQP)](https://github.com/SkyLightQP/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SkyLightQP&hide=contribs)](https://github.com/SkyLightQP/)
