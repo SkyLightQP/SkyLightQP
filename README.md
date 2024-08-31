@@ -4,7 +4,7 @@
 
 이곳에서 [영문 버전(English)](./README-en.md)을 볼 수 있습니다.
 
-### ➡️➡️ [Resume](https://daegyeo.me?utm_source=github&utm_medium=readme&utm_campaign=github_readme/) 보러가기 ⬅️⬅️
+### ➡️➡️ 자세한 [이야기](https://daegyeo.me?utm_source=github&utm_medium=readme&utm_campaign=github_readme/) 보러가기 ⬅️⬅️
 
 ## 💻 프로젝트
 
@@ -12,7 +12,6 @@
 - 도시건설 주사위 보드 게임, **[마블](https://github.com/SkyLightQP/marble/)**
 - 시간표 확인 및 고교학점제 수강신청 등을 위한 고등학교 인트라넷 프로젝트 **[수정과](https://github.com/swjb-sinamon/)**
 - WebRTC, WebSocket을 활용한 스터디 플랫폼 (SWM 11기 프로젝트) **[커넥트클래스](https://github.com/real-compacted-developer/connect-class/)**
-- 출석체크, 자료공유, 화면공유를 지원하는 학습 지원 서비스 **[ZUDA](https://github.com/zzuda/)**
 - 학교 시험대비 커뮤니티형 문제 은행 서비스 **[수프트](https://github.com/swsuft/)**
 
 ## 🔗 다른 곳에서도 만나보세요
