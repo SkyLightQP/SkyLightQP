@@ -14,7 +14,6 @@
 ## 🔗 다른 곳에서도 만나보세요
 - **[블로그](https://blog.daegyeo.me/)**
 - **[백준](https://www.acmicpc.net/user/combbm/)**
-- **[Today I Learned](https://til.skylightqp.kr/)**
 
 <br>
 
