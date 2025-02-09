@@ -12,7 +12,6 @@
 ## 🔗 See other links
 - **[Blog](https://blog.daegyeo.me/)**
 - **[Baekjoon](https://www.acmicpc.net/user/combbm/)**
-- **[Today I Learned](https://til.skylightqp.kr/)**
 
 <br>
 
