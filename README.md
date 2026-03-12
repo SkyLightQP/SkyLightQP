@@ -19,7 +19,7 @@
 
 ### Educations
 
-- Gachon University, Major in Software Engineering (2022 -)
+- Gachon University, Major in Software Engineering (2022 - Present, on Leave of Absence since 2023)
 - Software Maestro 11th (2020.05 - 2020.11)
 
 ### Projects
