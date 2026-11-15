@@ -15,7 +15,7 @@
 
 ### Careers
 
-- [acrossB](https://www.acrossb.net/) Fullstack Developer (2025.08 - Present)
+- [acrossB](https://www.acrossb.net/) Fullstack Developer (2025.08 - 2026.11)
 
 ### Educations
 
